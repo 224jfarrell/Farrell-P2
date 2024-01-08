@@ -2,32 +2,32 @@
     "images": [
         {
             "imgPath": "img/extra/1.jpg",
-            "imgLocation": "",
-            "description": "",
+            "imgLocation": "Seychelles",
+            "description": "Mahe",
             "date": "01/01/2024"
         },
         {
             "imgPath": "img/extra/2.jpg",
-            "imgLocation": "",
-            "description": "",
+            "imgLocation": "Seychelles",
+            "description": "Mahe",
             "date": "01/02/2024"
         },
         {
             "imgPath": "img/extra/3.jpg",
-            "imgLocation": "",
-            "description": "",
+            "imgLocation": "Seychelles",
+            "description": "Anse La Mouche, Victoria, Mahe",
             "date": "01/03/2024"
         },
         {
             "imgPath": "img/extra/4.jpg",
-            "imgLocation": "",
-            "description": "",
+            "imgLocation": "Seychelles",
+            "description": "Mahe",
             "date": "01/04/2024"
         },
         {
             "imgPath": "img/extra/5.jpg",
-            "imgLocation": "",
-            "description": "",
+            "imgLocation": "Seychelles",
+            "description": "Machabee, Mahe",
             "date": "01/05/2024"
         }
     ]
